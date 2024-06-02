@@ -1,8 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/Marckelson/Marckelson/main/11669313_20945894.jpg)](https://github.com/Marckelson)
 <h1 align="center">Hi 👋, I'm Marckelson Silva</h1>
 <h3 align="center">Creative. Committed. Diligent.</h3>
-<p><img align="right" src="" alt="marckelson" width="40" height="40" /></p>
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" style="" frameBorder="0" class="giphy-embed" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marckelson&label=Profile%20views&color=0e75b6&style=flat" alt="marckelson" /> </p>
 
