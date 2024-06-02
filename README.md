@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, SQL, Linux**
 
-- 📫 How to reach me **marckelson.silva@astro.up.pt**
+- 📫 How to reach me **marckelsonsilva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
