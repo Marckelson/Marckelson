@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/Marckelson/Marckelson/main/11669313_20945894.jpg)](https://github.com/Marckelson)
 <h1 align="center">Hi 👋, I'm Marckelson Silva</h1>
 <h3 align="center">Creative. Committed. Diligent.</h3>
-<p><img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVwaDdlOGZmeWlnaGNoaGx3Y3ZyZGV1eHZvajJqaGE0a3ZtNTVybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="marckelson" width="40" height="40" /></p>
+<p><img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVwaDdlOGZmeWlnaGNoaGx3Y3ZyZGV1eHZvajJqaGE0a3ZtNTVybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webpf" alt="marckelson" width="40" height="40" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marckelson&label=Profile%20views&color=0e75b6&style=flat" alt="marckelson" /> </p>
