@@ -67,8 +67,12 @@ I'm excited to leverage my analytical mindset and technical skills in data engin
 
 [![Dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
 
-## My Certification:
+## 🔗 My certification:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9d7548db-63da-4fe6-9c6b-aea138f4961c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+* Introduction to Data Engineering: [Certificate](https://coursera.org/share/42e7d2acee37b71f027edabb5b033f4b), [Badge](https://www.credly.com/badges/9d7548db-63da-4fe6-9c6b-aea138f4961c/public_url)
+* Python Project for Data Engineering: [Certificate](https://coursera.org/share/a726c7ea66b8cb9d1a732d4f7a06c425), [Badge](https://www.credly.com/badges/9ae3a285-25cd-45df-9b5d-f0704f995913/public_url)
+* Python for Data Science, AI & Development: [Certificate](https://coursera.org/share/2443dcb394197d8dd0076220ef002c98), [Badge](https://www.credly.com/badges/f2f99121-bead-4e07-a3ee-f0449b3991e6/public_url)
+* Databases and SQL for Data Science with Python: [Certificate](https://coursera.org/share/017c4f0e69d565c4fa22cdecea2d2df5), [Badge](https://www.credly.com/badges/82097e20-4007-4ecd-9c6b-6858d6b63702/public_url)
+* Hands-on Introduction to Linux Commands and Shell Scripting: [Certificate](https://coursera.org/share/136e23916a9b6b703ee59a418b53e8f0)
+* Introduction to Relational Databases (RDBMS): [Certificate](https://coursera.org/share/7b6e33bcc6f4902ce53538617a5cb9cc), [Badge](https://www.credly.com/badges/440cdefa-bfbc-46d8-af09-00414209f8a2/public_url)
 
