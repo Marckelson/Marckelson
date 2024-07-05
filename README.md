@@ -77,3 +77,5 @@ I'm excited to leverage my analytical mindset and technical skills in data engin
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 [![Dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
+
+[![Snowflake](https://img.shields.io/badge/Snowflake-FF3621?style=for-the-badge&logo=Snowflake&logoColor=blue)](https://www.snowflake.com/en/)
