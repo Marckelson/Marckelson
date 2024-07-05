@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Marckelson/Marckelson/blob/main/banner_portfolio_github.gif)](https://github.com/Marckelson)
+[![MasterHead](https://github.com/Marckelson/Marckelson/blob/main/banner_github.gif)](https://github.com/Marckelson)
 <h1 align="center">Hi 👋, I'm Marckelson Silva</h1>
 <h3 align="center">Creative. Committed. Diligent.</h3>
 
