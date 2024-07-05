@@ -1,25 +1,72 @@
 [![MasterHead](https://github.com/Marckelson/Marckelson/blob/main/banner_github.gif)](https://github.com/Marckelson)
-<h1 align="center">Hi 👋, I'm Marckelson Silva</h1>
-<h3 align="center">Creative. Committed. Diligent.</h3>
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+# Hi there, I'm Marckelson! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marckelson&label=Profile%20views&color=0e75b6&style=flat" alt="marckelson" /> </p>
 
-- 🌱 I’m currently learning **Data engineering topics**
+## 🚀 About Me
 
-- 💬 Ask me about **Python, SQL, Linux**
+I'm an astrophysicist with a passion for data engineering and data science. My academic background has equipped me with strong analytical and problem-solving skills, which I now aim to apply in the tech industry to derive meaningful insights and drive data-driven decision-making. Below are some of the key skills and experiences I bring to the table:
 
-- 📫 How to reach me **marckelsonsilva@gmail.com**
+### Skills and Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marckelson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marckelson" height="30" width="40" /></a>
-<a href="https://kaggle.com/marckelsonss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marckelsonss" height="30" width="40" /></a>
-<a href="https://fb.com/marckelson.silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marckelson.silva" height="30" width="40" /></a>
-<a href="https://instagram.com/marckelson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marckelson" height="30" width="40" /></a>
-</p>
+**Analytical and Problem-Solving Skills:**
+- Proficient in data analysis, capable of identifying patterns and extracting actionable insights.
+- Experienced in hypothesis testing, crucial for A/B testing and data-driven experiments.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Technical and Computational Skills:**
+- **Programming:** Proficient in Python, essential for data analysis and model building.
+- **Statistical Methods:** Expertise in statistical techniques, including regression analysis, clustering, and classification.
+- **Simulation and Modeling:** Skilled in creating and running simulations, applicable to predictive modeling and machine learning.
+
+**Data Management Skills:**
+- **Data Collection and Cleaning:** Experienced in handling and cleaning large datasets, ensuring data quality.
+- **Database Management:** Proficient in SQL for querying and managing databases.
+
+**Technical Tools and Software:**
+- **Data Analysis Tools:** Experienced with Pandas, NumPy, SciPy, and Jupyter Notebooks for data manipulation and analysis.
+- **Visualization Tools:** Skilled in creating visualizations using Matplotlib, Seaborn, and other plotting libraries.
+- **Big Data Technologies:** Familiar with handling large datasets using Spark.
+
+**Research and Communication Skills:**
+- **Research Methodology:** Strong background in designing and executing research methodologies.
+- **Technical Writing:** Capable of documenting findings and methodologies clearly and concisely.
+- **Collaboration:** Experience working in interdisciplinary teams and effectively communicating complex ideas to non-experts.
+
+**Domain Knowledge:**
+- **Physics and Mathematics:** Solid foundation in physics and mathematics, enhancing the understanding of data science algorithms and techniques.
+
+### Projects
+
+- **Project Name 1:** 
+- **Project Name 2:** 
+- **Project Name 3:** 
+
+I'm excited to leverage my analytical mindset and technical skills in data engineering or data science roles to solve real-world problems and contribute to innovative projects. Feel free to explore my repositories and connect with me for collaboration!
+
+
+## 🛠 Skills
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) 
+
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+[![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white0)](https://scipy.org/)
+
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/)
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+[![Dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marckelson&show_icons=true&locale=en&layout=compact" alt="marckelson" /></p>
 
