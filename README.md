@@ -67,11 +67,8 @@ I'm excited to leverage my analytical mindset and technical skills in data engin
 
 [![Dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
 
+## My Certification:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marckelson&show_icons=true&locale=en&layout=compact" alt="marckelson" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marckelson&show_icons=true&locale=en" alt="marckelson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marckelson&" alt="marckelson" /></p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9d7548db-63da-4fe6-9c6b-aea138f4961c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
