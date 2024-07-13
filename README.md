@@ -40,7 +40,7 @@ I'm an astrophysicist with a passion for data engineering and data science. My a
 
 ### Projects
 
-- **Vehicle Dealership:** The project aims to implement a real-world project using common tools like AWS ECS, Airflow, DBT, Snowflake, and Postgres. While not every project will use these tools, they represent a typical data engineering stack. [Data engineering project under construction](https://github.com/Marckelson/Vehicle-dealership)
+- **Vehicle Dealership:** The project aims to implement a real-world project using common tools like AWS ECS, Airflow, DBT, Snowflake, and Postgres. While not every project will use these tools, they represent a typical data engineering stack. [Under construction](https://github.com/Marckelson/Vehicle-dealership)
 - **Project Name 2:** 
 - **Project Name 3:** 
 
