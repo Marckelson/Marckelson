@@ -40,7 +40,7 @@ I'm an astrophysicist with a passion for data engineering and data science. My a
 
 ### Projects
 
-- **Project Name 1:** 
+- **Vehicle Dealership :**The project aims to implement a real-world project using common tools like Airflow, DBT, Snowflake, and Postgres. While not every project will use these tools, they represent a typical data engineering stack. 
 - **Project Name 2:** 
 - **Project Name 3:** 
 
